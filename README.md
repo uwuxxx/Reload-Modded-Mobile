@@ -1,5 +1,6 @@
+<img src="https://avatars.githubusercontent.com/u/176188285?s=200&v=4" height="90" width="100">
+
 credits to burlone (**@burlone413**) on discord
-<img src="https://avatars.githubusercontent.com/u/176188285?s=200&v=4" height="50" width="100">
 modded by (**@robloxplayerbeta**)
 
 

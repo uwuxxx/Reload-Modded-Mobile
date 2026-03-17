@@ -8,5 +8,12 @@ This has sum stuff like the match making and other, main credits to [Ghostcubert
 
 Use sinum, [Nova Sinum Redirect IOS](https://github.com/projectnovafn/Sinum/tree/main/iOS)
 
+
+
+
 ## IMPORTANT
 Tutorial ---> [Cubert Tutorial](https://www.youtube.com/watch?v=fADvIPW-Bnk)
+
+
+## FEATURES
+[Click here]()

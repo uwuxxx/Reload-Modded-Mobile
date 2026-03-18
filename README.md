@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/176188285?s=200&v=4" height="90" width="100">
 
 credits to burlone (**@burlone413**) on discord
-modded by (**@robloxplayerbeta**)
+modded by (**@robloxplayerbeta**) add me if wanted new modded backends
 
 
 This has sum stuff like the match making and other, main credits to [Ghostcubert](https://www.youtube.com/@Ghostcubert)

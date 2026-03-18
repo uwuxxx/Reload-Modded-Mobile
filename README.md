@@ -8,8 +8,8 @@ This has sum stuff like the match making and other, main credits to [Ghostcubert
 
 Use sinum, [Nova Sinum Redirect IOS](https://github.com/projectnovafn/Sinum/tree/main/iOS)
 
-
-
+# RAW
+Download raw verison of the backend [Download](https://github.com/uwuxxx/Reload-Modded-Mobile/archive/refs/heads/main.zip)
 
 ## IMPORTANT
 Tutorial ---> [Cubert Tutorial](https://www.youtube.com/watch?v=fADvIPW-Bnk)

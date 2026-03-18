@@ -4,7 +4,7 @@ const functions = require("../../../structs/functions.js");
 
 module.exports = {
     commandInfo: {
-        name: "create",
+        name: "register",
         description: "Creates an account on Reload Backend.",
         options: [
             {

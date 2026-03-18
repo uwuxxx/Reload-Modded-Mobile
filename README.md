@@ -16,4 +16,4 @@ Tutorial ---> [Cubert Tutorial](https://www.youtube.com/watch?v=fADvIPW-Bnk)
 
 
 ## FEATURES
-[Click here]()
+[Click here](https://github.com/uwuxxx/Reload-Modded-Mobile/blob/main/features.md)
